@@ -1,0 +1,119 @@
+[18:30:50] [main/INFO]: Enabled Travertine version git:Travertine-Bootstrap:1.16-R0.4-SNAPSHOT:a24c106:158
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+[18:30:51] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin SkinsRestorer version 13.7.9 by Th3Tr0LLeR, McLive, DoNotSpamPls, Blackfire62
+[18:30:52] [main/INFO]: Loaded plugin SlashServer version 3 by Bloodsplat
+[18:30:52] [main/INFO]: Loaded plugin Bungee version 3.1.1 by FrankHeijden
+[18:30:52] [main/INFO]: Loaded plugin BungeeGuard version 1.2-SNAPSHOT by Luck
+[18:30:52] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin BungeeHub version 0.3 by iFedeFC
+[18:30:52] [main/INFO]: Loaded plugin AntiBot version 0.6.8 by 2LS
+[18:30:52] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin BotSentry version 9.2-THANATOS by New Era Studios & Lahuca Software Development
+[18:30:52] [main/INFO] [ABPS]: Loading config...
+[18:30:52] [main/INFO]: Loaded plugin ABPS version 1.0.4 by Venom Apps
+[18:30:52] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin ServerListPlus version 3.4.8 by Minecrell <https://github.com/Minecrell>
+[18:30:52] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:52] [main/INFO]: Loaded plugin BungeeTabListPlus version 3.2.2 by CodeCrafter47
+[18:30:52] [main/WARN]: Forced host server pvp is not defined
+[18:30:52] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:53] [main/INFO]: Enabled plugin SkinsRestorer version 13.7.9 by Th3Tr0LLeR, McLive, DoNotSpamPls, Blackfire62
+[18:30:54] [main/INFO]: Enabled plugin SlashServer version 3 by Bloodsplat
+[18:30:58] [main/INFO]: Enabled plugin Bungee version 3.1.1 by FrankHeijden
+[18:30:58] [main/INFO]: Enabled plugin BungeeGuard version 1.2-SNAPSHOT by Luck
+[18:30:58] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:58] [Bungee Pool Thread #1/INFO] [Bungee]: Checking for updates...
+[18:30:58] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:59] [main/INFO] [BungeeHub]: ----------------------------
+[18:30:59] [main/INFO] [BungeeHub]:      BungeeCord Hub
+[18:30:59] [main/INFO] [BungeeHub]: 
+[18:30:59] [main/INFO] [BungeeHub]: You are using the latest version
+[18:30:59] [main/INFO] [BungeeHub]: 
+[18:30:59] [main/INFO] [BungeeHub]: ----------------------------
+[18:30:59] [main/INFO]: Enabled plugin BungeeHub version 0.3 by iFedeFC
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     +===============+
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     +===============+
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     Current version: 13.7.9
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     A new version is available! Download it at:
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer]     https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.1.13/SkinsRestorer.jar
+[18:30:59] [SkinsRestorer Pool Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:30:59] [main/INFO] [AntiBot]: Configurations successfully created!
+[18:30:59] [main/INFO] [AntiBot]: Modules successfully loaded!
+[18:30:59] [main/INFO] [AntiBot]: Listeners successfully registered!
+[18:30:59] [main/INFO] [AntiBot]: Commands successfully registered!
+[18:30:59] [main/INFO]: Enabled plugin AntiBot version 0.6.8 by 2LS
+[18:30:59] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:30:59] [Bungee Pool Thread #1/INFO] [Bungee]: ServerUtils 3.4.2 is available!
+[18:30:59] [Bungee Pool Thread #1/INFO] [Bungee]: Release info: https://www.spigotmc.org/resources/79599/update?update=447747
+[18:31:01] [main/INFO]: Enabled plugin BotSentry version 9.2-THANATOS by New Era Studios & Lahuca Software Development
+[18:31:01] [main/INFO] [ABPS]: Registering listeners...
+[18:31:01] [main/INFO] [ABPS]: Starting metrics...
+[18:31:01] [main/INFO]: Enabled plugin ABPS version 1.0.4 by Venom Apps
+[18:31:01] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:31:01] [main/INFO] [ServerListPlus]: [Core] Reloading configuration...
+[18:31:01] [main/INFO] [ServerListPlus]: [Core] Loaded configuration: ServerStatusConf
+[18:31:01] [main/INFO] [ServerListPlus]: [Core] Loaded configuration: PluginConf
+[18:31:01] [main/INFO] [ServerListPlus]: [Core] Reloading saved player identities...
+[18:31:02] [main/INFO] [ServerListPlus]: Successfully loaded!
+[18:31:02] [main/INFO]: Enabled plugin ServerListPlus version 3.4.8 by Minecrell <https://github.com/Minecrell>
+[18:31:02] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.16-R0.4-SNAPSHOT:a24c106:158 by WaterfallMC
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: java.io.IOException
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at com.lahuca.botsentry.d.m.a(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at com.lahuca.botsentry.d.m.a(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at com.lahuca.botsentry.b.b.d.run(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at net.md_5.bungee.scheduler.BungeeTask.run(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #0/ERROR]: 	at java.lang.Thread.run(Unknown Source)
+[18:31:02] [BotSentry Pool Thread #13/INFO]: -------------------------------------------------------------
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |                                                           |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |      ____        _    _____            _                  |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |     |  _ \      | |  / ____|          | |                 |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |     | |_) | ___ | |_| (___   ___ _ __ | |_ _ __ _   _     |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |     |  _ < / _ \| __|\___ \ / _ \ '_ \| __| '__| | | |    |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |     | |_) | (_) | |_ ____) |  __/ | | | |_| |  | |_| |    |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |     |____/ \___/ \__|_____/ \___|_| |_|\__|_|   \__, |    |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |                                                  __/ |    |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |                                                 |___/     |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: |                                                           |
+[18:31:02] [BotSentry Pool Thread #13/INFO]: -------------------------------------------------------------
+[18:31:02] [BotSentry Pool Thread #13/INFO]: 
+[18:31:02] [BotSentry Pool Thread #13/INFO]: » Cloud config downloaded ?
+[18:31:02] [BotSentry Pool Thread #13/INFO]: » Black- and whitelist loaded into the RAM ?
+[18:31:02] [BotSentry Pool Thread #13/INFO]: 
+[18:31:02] [BotSentry Pool Thread #13/INFO]: (!) You are using an old BotSentry version, some things could not work at its finest.
+[18:31:02] [BotSentry Pool Thread #13/INFO]: 
+[18:31:02] [BotSentry Pool Thread #13/INFO]: Plugin coded by Lahuca Software Development and New Era Studios
+[18:31:02] [BotSentry Pool Thread #13/INFO]: 
+[18:31:02] [BotSentry Pool Thread #13/INFO]: -------------------------------------------------------------
+[18:31:02] [main/INFO] [BungeeTabListPlus]: Starting UpdateChecker Task
+[18:31:02] [main/INFO]: Enabled plugin BungeeTabListPlus version 3.2.2 by CodeCrafter47
+[18:31:03] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25565
+[18:31:08] [Netty Worker IO Thread #0/INFO]: XCord is using JavaVelocityCompressor$$Lambda$440/32490434 for packet compression
+[18:31:08] [Netty Worker IO Thread #0/INFO]: /127.0.0.1:61283 direct-connected (Abnormal behavior)
+[18:31:10] [Netty Worker IO Thread #1/INFO]: /127.0.0.1:61286 direct-connected (Abnormal behavior)
+[18:31:17] [Netty Worker IO Thread #2/INFO]: /127.0.0.1:61288 direct-connected (Abnormal behavior)
+[18:31:17] [Netty Worker IO Thread #2/WARN]: Event PostLoginEvent(player=hoangsurvival) took 388ms to process!
+[18:31:25] [Netty Worker IO Thread #3/INFO]: /127.0.0.1:61295 direct-connected (Abnormal behavior)
+[18:31:31] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:61288|hoangsurvival] -> UpstreamBridge has disconnected
+[18:31:31] [Netty Worker IO Thread #2/INFO]: [/127.0.0.1:61288|hoangsurvival] <-> DownstreamBridge <-> [LOBBY] has disconnected
+[18:31:38] [main/INFO]: Command not found
+[18:31:44] [Netty Worker IO Thread #0/INFO]: /127.0.0.1:61305 direct-connected (Abnormal behavior)
+[18:32:04] [Netty Worker IO Thread #1/INFO]: /127.0.0.1:61316 direct-connected (Abnormal behavior)
+[18:32:05] [Netty Worker IO Thread #2/INFO]: /127.0.0.1:61318 direct-connected (Abnormal behavior)
+[18:32:05] [Netty Worker IO Thread #3/INFO]: /127.0.0.1:61319 direct-connected (Abnormal behavior)
+[18:32:05] [Netty Worker IO Thread #0/INFO]: /127.0.0.1:61322 direct-connected (Abnormal behavior)
+[18:32:06] [Netty Worker IO Thread #1/INFO]: /127.0.0.1:61324 direct-connected (Abnormal behavior)
+[18:32:14] [Netty Worker IO Thread #2/INFO]: /127.0.0.1:61331 direct-connected (Abnormal behavior)
+[18:32:32] [Netty Worker IO Thread #0/INFO]: /127.0.0.1:61334 direct-connected (Abnormal behavior)
+[18:35:26] [Netty Worker IO Thread #2/INFO]: /127.0.0.1:61364 direct-connected (Abnormal behavior)
